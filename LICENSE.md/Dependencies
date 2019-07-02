@@ -1,0 +1,14 @@
+Dependencias projeto python MVC
+
+
+Windows:
+	#Instale as dependências de banco de dados conforme necessidade
+	Banco de dados 
+	- MYSQL: conector mysql python - pip install mysql-connector 
+	- SQL Server: biblioteca pymssql - pip install pymssql
+
+Linux:
+	Banco de dados
+	FreeTDS - http://pymssql.org/en/latest/freetds.html
+	MYSQL: conector mysql python - 
+	SQL Server: biblioteca pymssql - pip install pymssql

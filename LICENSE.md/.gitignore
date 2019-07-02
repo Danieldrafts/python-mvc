@@ -1,0 +1,5 @@
+virtual
+app/enviroment.ini
+app/controllers/testController.py
+app/storage/sessions
+*/__pycache__
